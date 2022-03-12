@@ -3,6 +3,7 @@ label: Welcome
 icon: home
 ---
 # Welcome to Taggy
+Hello!
 
 ## A video
 ### A subcategory
